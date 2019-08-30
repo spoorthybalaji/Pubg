@@ -5,7 +5,8 @@
 #include<bits/stdc++.h>
 #define v(x) vector<x>
 #define pb(x) push_back(x)
-#define fori0(i,n) for(int i=0;i<n;i++)
+#define fori0(i,n)
+  for(int i=0;i<n;i++)
 #define in(n) int n;cin>>n
 using namespace std;
 const int MAX=1e5+2;
